@@ -2,23 +2,47 @@
 
 **Estudiante de Ingeniería Informática**
 
-Actualmente curso el segundo año del grado en la Universidad de Alicante. Me encuentro en plena fase de aprendizaje, construyendo una base técnica robusta. A medida que avanzo en la carrera, mi objetivo es orientar mis pasos hacia la Ingeniería de Software y comenzar a explorar el campo del Machine Learning.
+Actualmente voy a entrar en el tercer año del Grado en Ingeniería Informática en la Universidad de Alicante, cursando la especialidad de Ingeniería del Software. Mi objetivo principal es el diseño de software eficiente y la Inteligencia Artificial.
 
 ### 🚀 Sobre mí
-* 🎓 Estudiante de 2º año de Ingeniería Informática.
-* 🌱 Enfocado en dominar las bases de la programación, algoritmia y estructuras de datos.
-* 🎯 Mis principales intereses a futuro son el diseño de software escalable y la Inteligencia Artificial.
-* 💡 Buscando aplicar los conocimientos del grado en proyectos prácticos para seguir creciendo como desarrollador.
+* 🎓 Estudiante de 3º año de Ingeniería Informática.
+* 🌱 Formándome activamente en infraestructura en la nube e IA a través de la certificación AWS Artificial Intelligence Practitioner.
+* 🎯 Mis principales intereses son el desarrollo web Full-Stack, la programación dirigida por eventos y la Inteligencia Artificial.
 
 ### 🛠️ Tecnologías y Herramientas
-* **C++ (Básico/Intermedio):** Mi lenguaje principal y el que más disfruto. Experiencia práctica con fundamentos, gestión de memoria y Programación Orientada a Objetos.
-* **Java:** Nivel básico, con experiencia centrada en aplicar los principios de la Programación Orientada a Objetos.
-* **C#:** Nociones básicas y primer contacto con su ecosistema.
+* **C++ y C:** Lenguajes principales. Experiencia sólida en algoritmia, gestión dinámica de memoria, uso de `structs`, vectores y persistencia de datos.
+* **C# y .NET:** Desarrollo de aplicaciones de consola y backend, dominando la Programación Dirigida por Eventos y el control de excepciones.
+* **Desarrollo Web Full-Stack:** Creación de aplicaciones con ASP.NET, JavaScript, HTML y CSS.
+* **Bases de Datos:** Experiencia en bases de datos relacionales con T-SQL y SQL Server.
+* **Otros Lenguajes:** Swift y Java.
+* **Herramientas y Metodologías:** Control de versiones con Git/GitHub utilizando la metodología Git Flow en equipos de desarrollo, y Visual Studio Enterprise 2022.
 
 ### 🎯 Enfoque Actual y Próximos Pasos
-* 📘 Consolidando mis conocimientos de C++ mediante proyectos prácticos y código limpio.
-* 🐍 Iniciándome en los fundamentos de Python como paso previo para explorar el Machine Learning.
-* 🛠️ Construyendo mis primeros repositorios públicos para documentar mi progreso técnico.
+* 📘 Consolidando arquitecturas de software escalables y patrones de diseño mediante proyectos colaborativos.
+* ☁️ Preparando la certificación oficial *AWS Artificial Intelligence Practitioner*.
 
 ### 📫 Cómo contactar conmigo
 * **Email:** carlosmorejoncano@gmail.com
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+</div>
