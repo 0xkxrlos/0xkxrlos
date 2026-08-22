@@ -6,7 +6,7 @@ Actualmente voy a entrar en el tercer año del Grado en Ingeniería Informática
 
 ### 🚀 Sobre mí
 * 🎓 Estudiante de 3º año de Ingeniería Informática.
-* 🌱 Formándome activamente en infraestructura en la nube e IA a través de la certificación AWS Artificial Intelligence Practitioner y el programa de Google AI Fundamentals.
+* 🌱 Formándome activamente en infraestructura en la nube e IA a través de la certificación AWS Artificial Intelligence Practitioner y el programa de Google AI.
 * 🎯 Mis principales intereses son el desarrollo web Full-Stack, la programación dirigida por eventos y la Inteligencia Artificial.
 
 ### 🛠️ Tecnologías y Herramientas
@@ -31,6 +31,8 @@ Actualmente voy a entrar en el tercer año del Grado en Ingeniería Informática
 * ☁️ Preparando la certificación oficial *AWS Artificial Intelligence Practitioner*.
 
 <div align="center">
+  <img src="./assets/Badge_AI-Cert_AI_Fundamentals_Completion.png" width="130" alt="Google AI Fundamentals - Course Completion" />
+  <br><br>
   <img src="https://img.shields.io/badge/Google_AI_Fundamentals-Coursera-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Fundamentals" />
   <img src="https://img.shields.io/badge/AWS-AI_Practitioner_Prep-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
 </div>
